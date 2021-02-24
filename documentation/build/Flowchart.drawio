@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T02:27:43.149Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="yqDDGsQj_egLtdcrUhAV" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-24T03:39:18.728Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="8vdpWsIw_4fcr1EWsFeg" version="14.4.2" type="github">
   <diagram id="wWpEONoESdP3NUr75rJn" name="Page-1">
     <mxGraphModel dx="1426" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -61,13 +61,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AYKECJN2Fn010FfBToEk-4" value="State 2.0 : &lt;br&gt;Check Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AYKECJN2Fn010FfBToEk-4" value="State 2 : &lt;br&gt;Check Customer" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="crHzFIpyRZOjVDYztjRo-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="AYKECJN2Fn010FfBToEk-6" target="crHzFIpyRZOjVDYztjRo-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AYKECJN2Fn010FfBToEk-6" value="State 3.0 : &lt;br&gt;SO Check" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="AYKECJN2Fn010FfBToEk-6" value="State 3 : &lt;br&gt;SO Check" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AYKECJN2Fn010FfBToEk-2" value="State 1.1 : &lt;br&gt;Item Check" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -84,8 +84,8 @@
             <mxGeometry relative="1" as="geometry">
               <Array as="points">
                 <mxPoint x="680" y="150" />
-                <mxPoint x="680" y="210" />
-                <mxPoint x="520" y="210" />
+                <mxPoint x="680" y="220" />
+                <mxPoint x="520" y="220" />
               </Array>
               <mxPoint x="660" y="160" as="sourcePoint" />
             </mxGeometry>
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="crHzFIpyRZOjVDYztjRo-6" value="State 2.1 : &lt;br&gt;Assign Approval" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="crHzFIpyRZOjVDYztjRo-6" value="State 4 : &lt;br&gt;Assign Approval" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="crHzFIpyRZOjVDYztjRo-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="crHzFIpyRZOjVDYztjRo-8" target="crHzFIpyRZOjVDYztjRo-10" edge="1">
@@ -132,7 +132,7 @@
         <mxCell id="crHzFIpyRZOjVDYztjRo-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="crHzFIpyRZOjVDYztjRo-8" target="crHzFIpyRZOjVDYztjRo-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="crHzFIpyRZOjVDYztjRo-8" value="State 3.1 : &lt;br&gt;Pending Approval" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="crHzFIpyRZOjVDYztjRo-8" value="State 5.1 : &lt;br&gt;Pending Approval" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="crHzFIpyRZOjVDYztjRo-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="crHzFIpyRZOjVDYztjRo-10" target="crHzFIpyRZOjVDYztjRo-24" edge="1">
@@ -157,12 +157,12 @@
             <Array as="points">
               <mxPoint x="780" y="305" />
               <mxPoint x="780" y="500" />
-              <mxPoint x="380" y="500" />
+              <mxPoint x="390" y="500" />
             </Array>
             <mxPoint x="780" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crHzFIpyRZOjVDYztjRo-10" value="State 3.2 : &lt;br&gt;Pending Approval" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="crHzFIpyRZOjVDYztjRo-10" value="State 5.2 : &lt;br&gt;Pending Approval" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="crHzFIpyRZOjVDYztjRo-19" value="&lt;font style=&quot;font-size: 10px&quot;&gt;Dealer: No&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="1" vertex="1">
@@ -193,14 +193,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="crHzFIpyRZOjVDYztjRo-24" value="&lt;span&gt;State 4.1 : &lt;br&gt;Rejected&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="crHzFIpyRZOjVDYztjRo-24" value="&lt;span&gt;State 6.1 : &lt;br&gt;Rejected&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="crHzFIpyRZOjVDYztjRo-31" value="&lt;span&gt;State 5.1 : &lt;br&gt;Canceled&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="crHzFIpyRZOjVDYztjRo-31" value="&lt;span&gt;State 7 : &lt;br&gt;Canceled&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="crHzFIpyRZOjVDYztjRo-39" value="&lt;span&gt;State 4.2 : &lt;br&gt;Approved&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="350" width="120" height="60" as="geometry" />
+        <mxCell id="crHzFIpyRZOjVDYztjRo-39" value="&lt;span&gt;State 6.2 : &lt;br&gt;Approved&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
